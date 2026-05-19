@@ -1,1 +1,0 @@
-# Alzheimer-Disease-Detection-Using-Machine-Learning-Technique
